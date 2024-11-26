@@ -27,6 +27,7 @@ Fonts
 AammuFK (aka, MV Aammu Fala Kathi)
 - Source: [MV Aammu FK](https://www.hassanhameed.com/thaana-fonts/mv-aammufk/)
 - License: Open Font License (OFL)
+- Family: aammufk
 - MD5 checksum
   - aamufk.ttf: `172eade94a56987c5cd6f6520d95627d`
 
@@ -35,6 +36,7 @@ MV Typewriter
   - [Thaana Typewriter](https://www.hassanhameed.com/thaana-fonts/thaana-typewriter-font/)
   - [MV Typewriter Semibold](https://www.hassanhameed.com/thaana-fonts/mv-typewriter-semibold/)
 - License: Open Font License (OFL)
+- Family: mvtyper
 - MD5 checksum
   - mvtyper.ttf: `f965994c23d3400970e5474dc7efcb50`
   - mvtyper-bold.ttf: `6772dfb2a11895d84884e68c44cef7f2`
