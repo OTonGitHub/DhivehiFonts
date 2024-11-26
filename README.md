@@ -73,3 +73,6 @@ regardless of if author documents it or not, hence, I will include it in the fut
 
 #### Crawling
 I will setup a worker so that you can fetch versioning and font names, families etc via the URl recursively until last child is reached.
+
+#### DDoS?
+Feel free to try, at the end of the day, it come's down to the measures in place and my wallet, lul.
