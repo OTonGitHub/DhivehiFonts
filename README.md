@@ -25,3 +25,11 @@ Average Latency: 24ms
       <h1>... </h1>
   </div>
   ```
+
+#### FAQ
+Credits?
+- See commit message details of the font file, some of these fonts uses a copyleft license, they will be included here at a later date.
+
+Other Types?
+- All the fonts included have already been tested for web or are wildly in use, if enough fonts need support for other types such as `woff2` or `otf`, 
+will change the folder structure and make it available easily. For now, no plans to do so, stick to `ttf`.
