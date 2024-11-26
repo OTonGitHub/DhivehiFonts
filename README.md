@@ -70,3 +70,6 @@ will change the folder structure and make it available easily. For now, no plans
 Only a handful of fonts actually have versioning or I have been ablt to track the version changes in an accurate manner. Hence, for now, will
 just skip versioning and address each font by name and keep latest updated. It can be included in the future though. There is still a need for versioning
 regardless of if author documents it or not, hence, I will include it in the future. And version changes can be seen in the commit appends.
+
+#### Crawling
+I will setup a worker so that you can fetch versioning and font names, families etc via the URl recursively until last child is reached.
