@@ -44,7 +44,7 @@ MV Typewriter
 
 Code Example?
 -------------
-- HTML
+**HTML**
   ```
   @font-face {
     font-family: 'MV Typer';
@@ -75,4 +75,5 @@ regardless of if author documents it or not, hence, I will include it in the fut
 I will setup a worker so that you can fetch versioning and font names, families etc via the URl recursively until last child is reached.
 
 #### DDoS?
-Feel free to try, at the end of the day, it come's down to the measures in place and my wallet, lul.
+Feel free to try, at the end of the day, it come's down to the measures in place and my wallet, lul. Fail over CDN is one of the measures, but I won't
+document it, it's highly unlikely for it trigger. I will expand this to serve some of the common dhivehi friendly lotties as well.
