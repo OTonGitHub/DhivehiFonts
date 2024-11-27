@@ -72,6 +72,9 @@ Code Example?
 
 FAQ
 ---
+#### Add a Font?
+Simply make a pull request or open an issue with the font you want to be added with a link to it. I primarily use another git hosting provider so I might miss a notification, so you can always shoot an email at cryonix@daraknet.cc as well. But stick to issues, they won't he missed, just takes time for me to see them.
+
 #### Credits?
 ~~See commit message details of the font file, some of these fonts uses a copyleft license, they will be included here at a later date.~~
 
