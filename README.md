@@ -57,6 +57,19 @@ Code Example?
   }
   ```
 
+**HTML** - Blogger (`ttf` first)
+```
+@font-face {
+    font-family: &#39;MV AammuFK&#39;;
+    src: url(&#39;https://dhifonts.b-cdn.net/aammufk/aammufk.ttf&#39;) format(&#39;woff2&#39;),
+         url(&#39;https://dhifonts.b-cdn.net/aammufk/aammufk.woff2&#39;) format(&#39;woff&#39;),
+         url(&#39;https://dhifonts.b-cdn.net/aammufk/aammufk.woff&#39;) format(&#39;truetype&#39;);
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+```
+
 FAQ
 ---
 #### Credits?
