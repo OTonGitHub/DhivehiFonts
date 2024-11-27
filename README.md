@@ -89,4 +89,4 @@ I will setup a worker so that you can fetch versioning and font names, families 
 
 #### DDoS?
 Feel free to try, at the end of the day, it come's down to the measures in place and my wallet, lul. Fail over CDN is one of the measures, but I won't
-document it, it's highly unlikely for it trigger. I will expand this to serve some of the common dhivehi friendly lotties as well.
+document it, it's highly unlikely for it to trigger. I will expand this to serve some of the common dhivehi friendly lotties as well.
