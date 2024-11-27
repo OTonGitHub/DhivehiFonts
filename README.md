@@ -73,18 +73,18 @@ Code Example?
 FAQ
 ---
 #### Credits?
-See commit message details of the font file, some of these fonts uses a copyleft license, they will be included here at a later date.
+~~See commit message details of the font file, some of these fonts uses a copyleft license, they will be included here at a later date.~~
 
 #### Other Types?
-All the fonts included have already been tested for web or are widely in use, if enough fonts need support for other types such as `woff2` or `otf`, 
-will change the folder structure and make it available easily. For now, no plans to do so, stick to `ttf`.
+~~All the fonts included have already been tested for web or are widely in use, if enough fonts need support for other types such as `woff2` or `otf`, 
+will change the folder structure and make it available easily. For now, no plans to do so, stick to `ttf`.~~
 
 #### Versioning?
 Only a handful of fonts actually have versioning or I have been ablt to track the version changes in an accurate manner. Hence, for now, will
 just skip versioning and address each font by name and keep latest updated. It can be included in the future though. There is still a need for versioning
 regardless of if author documents it or not, hence, I will include it in the future. And version changes can be seen in the commit appends.
 
-#### Crawling
+#### Crawling?
 I will setup a worker so that you can fetch versioning and font names, families etc via the URl recursively until last child is reached.
 
 #### DDoS?
