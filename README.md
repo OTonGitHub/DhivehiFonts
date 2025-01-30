@@ -57,7 +57,7 @@ Code Example?
   }
   ```
 
-**HTML** - Blogger (`ttf` first)
+**HTML** - Blogger (`ttf` first & escape char)
 ```
 @font-face {
     font-family: &#39;MV AammuFK&#39;;
